@@ -1,4 +1,4 @@
-# 📊 Data Analytics Portfolio  
+# 📊 Volodymyr's Data Analytics Portfolio  
 
 This repository serves as a central hub for my data analytics portfolio.  
 It contains links and summaries of individual projects where I apply Python, SQL, and Power BI to explore, analyse, and visualise business datasets.  
