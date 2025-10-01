@@ -3,6 +3,8 @@
 This repository serves as a central hub for my data analytics portfolio.  
 It contains links and summaries of individual projects where I apply Python, SQL, and Power BI to explore, analyse, and visualise business datasets.  
 
+This portfolio demonstrates how I use **Python, SQL, and Power BI** to perform **Exploratory Data Analysis, Time Series Analytics, and Dashboard Reporting** across multiple business domains.  
+
 ---
 
 ## 🔹 Projects  
@@ -52,4 +54,3 @@ It contains links and summaries of individual projects where I apply Python, SQL
   - Good vs. bad loan metrics  
 - **Goal:** Highlighting Python’s capabilities for financial dataset exploration rather than providing business recommendations.
 ---
-tfolio demonstrates how I use **Python, SQL, and Power BI** to perform **Exploratory Data Analysis, Time Series Analytics, and Dashboard Reporting** across multiple business domains.  
