@@ -17,7 +17,7 @@ This portfolio demonstrates how I use **Python, SQL, and Power BI** to perform *
   - Top/bottom products  
   - Distribution of order values  
   - Sales and profit breakdowns by channel, product, and region  
-- **Extras:** Power BI dashboard with KPI monitoring, customer insights, and channel performance.  
+**Extras:** Power BI dashboard with KPI monitoring, customer insights, and channel performance.  
 
 ---
 
@@ -28,20 +28,20 @@ This portfolio demonstrates how I use **Python, SQL, and Power BI** to perform *
   - Weekly & monthly sales trends  
   - Sales distribution by pizza size and category  
   - Top & bottom performing pizzas (by revenue, quantity, and orders)  
-- **Extras:** Filtering and navigational elements for a smooth user experience.  
+**Extras:** Filtering and navigational elements for a smooth user experience.  
 
 ---
 
 ### [**Walmart Sales SQL Analytics**](https://github.com/FykVolodymyr/Walmart-SQL-Analytics)  
 - **Tech Stack:** Python (ETL), SQL (Queries)  
-- **Focus:** Analyzing Walmart sales data to answer key business questions.  
+- **Focus:** Analysing Walmart sales data to answer key business questions.  
 - **Key Metrics:**  
   - Popular payment methods & transaction counts  
   - Highest-rated categories by branch and city  
   - Busiest sales days per branch  
   - Profit by category  
   - Categorisation of sales into Morning, Afternoon, Evening  
-- **Goal:** Showcasing integration of Python for data cleaning and SQL for querying insights.  
+**Goal:** Showcasing integration of Python for data cleaning and SQL for querying insights.  
 
 ---
 ### [**Bank Loan Applications Analysis**](https://github.com/FykVolodymyr/bank-loan-applications-EDA)  
@@ -52,5 +52,4 @@ This portfolio demonstrates how I use **Python, SQL, and Power BI** to perform *
   - Funded amounts & received payments  
   - Average interest and DTI rates  
   - Good vs. bad loan metrics  
-- **Goal:** Highlighting Python’s capabilities for financial dataset exploration rather than providing business recommendations.
----
+**Goal:** Highlighting Python’s capabilities for financial dataset exploration rather than providing business recommendations.
